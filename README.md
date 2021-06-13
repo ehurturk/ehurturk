@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Brainfuck](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
+<div style="text-align:center"><img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" /></div>
+<!--![Brainfuck](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
 - 🔭 I’m currently working on a simple OpenGL 2D/3D Engine
 - 🌱 I’m currently learning C++/C
 - 📫 Email: emirhurturk444@gmail.com
+-->
