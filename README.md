@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img  width="500" height="500" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
+  <img  width="200" height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
 </p>
 <p align="center">
   - 🔭 I’m currently working on a simple OpenGL 2D/3D Engine
