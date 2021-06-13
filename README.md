@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" width="100" height="100" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
+<img align="center" width="800" height="800" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
 <!-- <div style="align-items:center"><img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" /></div> -->
 <!--![Brainfuck](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
 - 🔭 I’m currently working on a simple OpenGL 2D/3D Engine
